@@ -24,7 +24,7 @@
 
 ### **Security Controls & Defense in Depth**
 
-1. **1.1 – Security Controls** - Preventive, detective, reactive controls
+1. **[1.1 – Security Controls](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/100/100/README.md)** - Preventive, detective, reactive controls
 1. **3.2 – Secure Infrastructures** - Security zones, attack surfaces
 1. **3.2 – IPS Implementation** - Active/passive monitoring, failure modes
 
