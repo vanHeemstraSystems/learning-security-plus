@@ -75,7 +75,7 @@
 1. **4.6 – IAM** - Identity management, SSO, provisioning
 1. **4.6 – Multifactor Authentication** - MFA implementation
 1. **4.6 – Account Policies** - Least privilege, access controls
-1. **1.2 – AAA Framework** - Authentication, authorization, accounting
+1. **[1.2 – AAA Framework](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/100/100/README.md)** - Authentication, authorization, accounting
 
 ### **Cryptography Implementation**
 
@@ -135,9 +135,9 @@
 
 ### **Other Security Concepts**
 
-1. **1.2 – Security Concepts (CIA Triad)** - Foundational concepts
-1. **1.2 – Zero Trust** - Zero trust architecture
-1. **1.2 – Physical Security** - Physical security controls
+1. **[1.2 – Security Concepts (CIA Triad)](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/100/100/README.md)** - Foundational concepts
+1. **[1.2 – Zero Trust](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/100/100/README.md)** - Zero trust architecture
+1. **[1.2 – Physical Security](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/100/100/README.md)** - Physical security controls
 1. **1.3 – Change Management** - Change control processes
 1. **4.2 – Asset Management** - Hardware/software management
 1. **4.7 – Automation and Orchestration** - Scripting, automation
