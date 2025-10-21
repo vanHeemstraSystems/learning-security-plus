@@ -20,7 +20,7 @@
 ### **Cloud Security (Required: AWS or Azure)**
 
 1. **[3.1 – Cloud Security](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/300/100/README.md)** - IaaS/PaaS/SaaS, serverless, APIs
-1. **[1.4 – Secure Cryptographic Processing - Part I](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/100/200/README.md)[ and Part II](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/100/300/README.md)** - HSM, TPM for cloud security
+1. **[1.4 – Secure Cryptographic Processing - Part I](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/100/200/README.md) and [Part II](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/100/300/README.md)** - HSM, TPM for cloud security
 
 ### **Security Controls & Defense in Depth**
 
