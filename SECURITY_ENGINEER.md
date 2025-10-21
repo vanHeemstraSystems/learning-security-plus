@@ -10,9 +10,9 @@
 1. **[4.1 – Secure Baselines](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/400/100/README.md)** - Essential for establishing security configurations
 1. **[4.4 – Monitoring Activities](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/400/400/README.md)** - Core to “monitoring cybersecurity measures”
 1. **[4.4 – Tools and Response (SIEM)](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/400/400/README.md)** - Required: Splunk, Elastic, Sentinel experience
-1. **2.5 – Segmentation** - Defense in Depth principle implementation
-1. **2.5 – Security Techniques** - Patching, encryption, monitoring, least privilege
-1. **2.5 – Hardening Techniques** - Encryption, open ports, default passwords
+1. **[2.5 – Segmentation](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/200/700/README.md)** - Defense in Depth principle implementation
+1. **[2.5 – Security Techniques](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/200/700/README.md)** - Patching, encryption, monitoring, least privilege
+1. **[2.5 – Hardening Techniques](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/200/700/README.md)** - Encryption, open ports, default passwords
 1. **4.3 – Identifying Vulnerabilities** - Vulnerability scanning and assessment
 1. **4.3 – Vulnerability Response** - Managing patches and updates
 1. **4.3 – Vulnerability Mitigation** - Compensating controls, segmentation
