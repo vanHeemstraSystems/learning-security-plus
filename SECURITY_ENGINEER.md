@@ -8,8 +8,8 @@
 
 1. **[4.1 – Hardening Targets](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/400/100/README.md)** - Directly relates to “securing and configuring systems according to best practices”
 1. **[4.1 – Secure Baselines](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/400/100/README.md)** - Essential for establishing security configurations
-1. **4.4 – Monitoring Activities** - Core to “monitoring cybersecurity measures”
-1. **4.4 – Tools and Response (SIEM)** - Required: Splunk, Elastic, Sentinel experience
+1. **[4.4 – Monitoring Activities](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/400/400/README.md)** - Core to “monitoring cybersecurity measures”
+1. **[4.4 – Tools and Response (SIEM)](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/400/400/README.md)** - Required: Splunk, Elastic, Sentinel experience
 1. **2.5 – Segmentation** - Defense in Depth principle implementation
 1. **2.5 – Security Techniques** - Patching, encryption, monitoring, least privilege
 1. **2.5 – Hardening Techniques** - Encryption, open ports, default passwords
