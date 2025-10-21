@@ -13,9 +13,9 @@
 1. **[2.5 – Segmentation](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/200/700/README.md)** - Defense in Depth principle implementation
 1. **[2.5 – Security Techniques](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/200/700/README.md)** - Patching, encryption, monitoring, least privilege
 1. **[2.5 – Hardening Techniques](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/200/700/README.md)** - Encryption, open ports, default passwords
-1. **4.3 – Identifying Vulnerabilities** - Vulnerability scanning and assessment
-1. **4.3 – Vulnerability Response** - Managing patches and updates
-1. **4.3 – Vulnerability Mitigation** - Compensating controls, segmentation
+1. **[4.3 – Identifying Vulnerabilities](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/400/200/README.md)** - Vulnerability scanning and assessment
+1. **[4.3 – Vulnerability Response](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/400/200/README.md)** - Managing patches and updates
+1. **[4.3 – Vulnerability Mitigation](https://github.com/vanHeemstraSystems/learning-security-plus/blob/main/300/400/200/README.md)** - Compensating controls, segmentation
 
 ### **Cloud Security (Required: AWS or Azure)**
 
