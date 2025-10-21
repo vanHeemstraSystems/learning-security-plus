@@ -47,6 +47,8 @@ Perfect! I found the complete video list for Professor Messer’s SY0-701 Securi
 
 ### **DOMAIN 1: GENERAL SECURITY CONCEPTS**
 
+See [README.md](./100/README.md)
+
 *Security+ Book Chapters: 1-4 typically cover security fundamentals, CIA triad, AAA, cryptography basics*
 
 **DAY ONE** - Security Foundations
@@ -92,6 +94,8 @@ Perfect! I found the complete video list for Professor Messer’s SY0-701 Securi
 -----
 
 ### **DOMAIN 2: THREATS, VULNERABILITIES, AND MITIGATIONS**
+
+See [README.md](./200/README.md)
 
 *Security+ Book Chapters: 5-9 typically cover threat actors, attack types, vulnerabilities, malware*
 
@@ -191,6 +195,8 @@ Perfect! I found the complete video list for Professor Messer’s SY0-701 Securi
 
 ### **DOMAIN 3: SECURITY ARCHITECTURE**
 
+See [README.md](./300/README.md)
+
 *Security+ Book Chapters: 10-13 typically cover network architecture, cloud security, data protection*
 
 **DAY ELEVEN** - Cloud & Network Architecture
@@ -262,6 +268,8 @@ Perfect! I found the complete video list for Professor Messer’s SY0-701 Securi
 -----
 
 ### **DOMAIN 4: SECURITY OPERATIONS**
+
+See [README.md](./400/README.md)
 
 *Security+ Book Chapters: 14-20 typically cover security operations, monitoring, incident response*
 
@@ -374,6 +382,8 @@ Perfect! I found the complete video list for Professor Messer’s SY0-701 Securi
 -----
 
 ### **DOMAIN 5: SECURITY PROGRAM MANAGEMENT**
+
+See [README.md](./500/README.md)
 
 *Security+ Book Chapters: 21-24 typically cover governance, risk management, compliance*
 
